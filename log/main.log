@@ -1,0 +1,19 @@
+2022-05-20 12:12:21,941 | [INFO] | bots.doc | (main.py).main(26) | БиржаBot is started!
+2022-05-20 12:12:43,005 | [INFO] | bots.doc | (main.py).mesg_handler(148) | Send Sales | 396471113 | willion_off | Willion
+2022-05-20 12:12:44,018 | [INFO] | bots.doc | (main.py).mesg_handler(151) | Send Concert | 396471113 | willion_off | Willion
+2022-05-20 12:12:54,156 | [INFO] | bots.doc | (main.py).mesg_handler(157) | Send Food | 396471113 | willion_off | Willion
+2022-05-20 12:12:56,144 | [INFO] | bots.doc | (main.py).mesg_handler(161) | Send Bar | 396471113 | willion_off | Willion
+2022-05-20 12:13:04,525 | [INFO] | bots.doc | (main.py).yesint(90) | Send Call Staff | 396471113 | willion_off | Willion
+2022-05-20 12:13:10,503 | [INFO] | bots.doc | (main.py).to_desc_msg(71) | Send Call Staff | 396471113 | willion_off | Willion
+2022-05-20 12:13:23,915 | [INFO] | bots.doc | (main.py).admin_yesint(110) | Send Call Admin | 396471113 | willion_off | Willion
+2022-05-20 12:13:36,343 | [INFO] | bots.doc | (main.py).reserved_send(137) | Send Call Reserved | 396471113 | willion_off | Willion
+2022-05-20 12:13:40,894 | [INFO] | bots.doc | (main.py).feedback_send(118) | Send Feedback | 396471113 | willion_off | Willion
+2022-05-20 16:51:50,491 | [INFO] | bots.doc | (main.py).yesint(84) | Send Call Staff | 396471113 | willion_off | Willion
+2022-05-20 16:52:28,792 | [INFO] | bots.doc | (main.py).yesint(84) | Send Call Staff | 396471113 | willion_off | Willion
+2022-05-20 17:26:32,850 | [INFO] | bots.doc | (main.py).yesint(86) | Send Call Staff | 396471113 | willion_off | Willion
+2022-05-20 17:27:38,217 | [INFO] | bots.doc | (main.py).admin_yesint(107) | Send Call Admin | 396471113 | willion_off | Willion
+2022-05-20 17:30:04,733 | [INFO] | bots.doc | (main.py).reserved_send(135) | Send Call Reserved | 396471113 | willion_off | Willion
+2022-05-20 18:08:21,529 | [INFO] | bots.doc | (main.py).mesg_handler(148) | Send Sales | 396471113 | willion_off | Willion
+2022-05-20 18:08:39,934 | [INFO] | bots.doc | (main.py).mesg_handler(148) | Send Sales | 396471113 | willion_off | Willion
+2022-05-20 18:08:41,244 | [INFO] | bots.doc | (main.py).mesg_handler(151) | Send Concert | 396471113 | willion_off | Willion
+2022-05-20 18:10:14,067 | [INFO] | bots.doc | (main.py).admin_yesint(106) | Send Call Admin | 396471113 | willion_off | Willion
