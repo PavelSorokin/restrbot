@@ -6,11 +6,6 @@ bot_chat_id = '-1001640458092'
 bot_chat_id_admin = '-1001640458092'
 bot_chat_id_feedback = '-1001640458092'
 
-user_json = {  'chat_id' : '',
-                'login' : '',
-                'first_name' : ''}
-
-timeout = {}
 timeout_seconds = 60
 
 admins = [394011279,396471113,420553555] 

@@ -25,7 +25,7 @@ def main():
 
     @bot.message_handler(commands=['start'])
     def start_cmd(message):
-        if message.chat.first_name is None:
+        if message.from_user.username is None:
             bot.send_message(message.chat.id, classes.cls_msg().msg_start(''), reply_markup=keyboard.keyboard_go())
             msg_handler.new_user_func_noname(message)
         else:
