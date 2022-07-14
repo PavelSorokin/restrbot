@@ -188,6 +188,8 @@ def main():
             elif message.text == '🗓Забронировать стол':
                 bot.send_message(message.chat.id,classes.cls_msg().msg_reserved_name(), reply_markup=keyboard.keyboard_back())
                 bot.set_state(message.from_user.id, classes.cls_reserved.name, message.chat.id) 
+            else:
+                start_cmd(message)
         
     bot.add_custom_filter(custom_filters.StateFilter(bot))
     bot.add_custom_filter(custom_filters.IsDigitFilter())
