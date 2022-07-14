@@ -90,7 +90,7 @@ class cls_msg():
         return self.msg_reserved_txt
 
     def msg_reserved_foruser(self):
-        self.msg_reserved_foruser_txt = 'Заявка на бронь отправлена!'
+        self.msg_reserved_foruser_txt = 'Заявка на бронь отправлена! С Вами свяжется администратор 🏃‍♀️'
         return self.msg_reserved_foruser_txt
         
     def msg_staff(self):
