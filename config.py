@@ -1,11 +1,10 @@
 from telebot.storage import StateMemoryStorage
 
-main_bot_token = '5320419353:AAEPbL94lz3PG7blljjwqT4K0f0FRCyabdI'
-notify_bot_token = '5320419353:AAEPbL94lz3PG7blljjwqT4K0f0FRCyabdI'
-bot_chat_id = '-1001640458092'
-bot_chat_id_admin = '-1001640458092'
-bot_chat_id_feedback = '-1001640458092'
-
+main_bot_token = 
+notify_bot_token = 
+bot_chat_id = 
+bot_chat_id_admin = 
+bot_chat_id_feedback = 
 timeout_seconds = 60
 
 admins = [394011279,396471113,420553555] 
